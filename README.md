@@ -6,4 +6,4 @@ Noah teem
 
 Manager: Jimmy 
 
-Employees: Cole Long, geardo, Tyler vang, Tristian 
+Employees: Cole Long, Geardo Valencia, Tyler vang, Tristian 
