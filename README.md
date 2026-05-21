@@ -2,7 +2,6 @@
 A website detailing the bio of all of the team members.
 
 The Roles
-COO Gerardo Valencia
 
 Boss: Noah teem 
 
